@@ -12,7 +12,7 @@ Counting the number of ways to do something, using combinatorial principles like
 
 ### geometry
 
-Geometric objects in two or more dimensions, like rectangles, circles, line segments, and linear inequalities. [Intervals](#interval) are considered separately.
+Geometric objects in two or more dimensions, like rectangles, circles, line segments, and linear inequalities. [One-dimensional intervals](#interval) are considered separately.
 
 ### graph
 
@@ -32,7 +32,7 @@ Prime numbers, modular arithmetic, divisibility, etc.
 
 ### optimization
 
-Minimizing or maximizing some quantity under the constraints given in the problem. Often involves use of the `min` and `max` functions.
+Minimizing or maximizing some quantity, under the constraints given in the problem. Often involves use of the `min` and `max` functions.
 
 ### path
 
@@ -44,17 +44,17 @@ Tree data structures.
 
 ## Data Types and Data Structures
 
-## 1d-array
+### 1d-array
 
 One-dimensional arrays, including arrays of boolean values. Includes resizable arrays like Java's `ArrayList`.
 
-## 2d-array
+### 2d-array
 
 2D arrays or other two-dimensional grids, like a chessboard or playing field.
 
 ### bit-operations
 
-Bit shifting, bitwise AND/OR/XOR/NOT, two's complement, bit sets.
+Bit shifting, bitwise AND/OR/XOR/NOT, two's complement, bit sets, etc.
 
 ### heap
 
@@ -74,9 +74,17 @@ String manipulation, including substrings and pattern matching.
 
 ## Problem-Solving Strategies
 
+### breadth-first-search
+
 ### brute-force
 
 Checking every possible candidate in order to find the answer. This often involves nested loops.
+
+### depth-first-search
+
+### divide-and-conquer
+
+Breaking up a large problem into a series of smaller problems, often recursively.
 
 ### flood-fill
 
@@ -84,11 +92,7 @@ Coloring or marking contiguous regions that satisfy a certain property.
 
 ### greedy
 
-A simple and intuitive algorithm that finds the optimal solution.
-
-### recursion
-
-Using recursive functions.
+Using a simple and intuitive algorithm to find the optimal solution.
 
 ### sorting
 
@@ -96,7 +100,7 @@ Ordering objects in some way to make solving the problem easier. This could incl
 
 ### searching
 
-Finding a specific element from an array of objects, or a more abstract set of possibilities.
+Finding a specific element from an array of objects, or a more abstract set of possibilities. Includes linear and binary search.
 
 ### simulation
 
