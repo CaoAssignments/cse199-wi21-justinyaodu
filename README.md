@@ -32,3 +32,26 @@ Key concepts:
 
 * Sorting objects by an attribute (sorting hoof shakes by time)
 * Brute force with nested loops (simulating all possibilities of patient zero and all relevant possibilities for K)
+
+## 2016 January Contest (Bronze)
+
+### Promotion Counting
+
+Key concepts:
+
+* Arithmetic
+
+### Angry Cows
+
+Key concepts:
+
+* Sorting
+* 1D arrays
+* Simulation
+
+### Mowing the Field
+
+Key concepts:
+
+* 2D arrays
+* Simulation
