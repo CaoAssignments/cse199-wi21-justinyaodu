@@ -10,6 +10,8 @@ Points on a coordinate plane. More complex geometric objects go under [geometry]
 
 Counting the number of ways to do something, using combinatorial principles like the sum rule, product rule, and inclusion/exclusion.
 
+### dynamic-programming
+
 ### geometry
 
 Geometric objects in two or more dimensions, like rectangles, circles, line segments, and linear inequalities. [One-dimensional intervals](#interval) are considered separately.
