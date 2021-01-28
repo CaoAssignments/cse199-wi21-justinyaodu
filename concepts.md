@@ -96,6 +96,8 @@ Coloring or marking contiguous regions that satisfy a certain property.
 
 Using a simple and intuitive algorithm to find the optimal solution.
 
+### recursion
+
 ### sorting
 
 Ordering objects in some way to make solving the problem easier. This could include sorting events by time, sorting positions and intervals on a number line, or sorting objects by an attribute (like their size).
