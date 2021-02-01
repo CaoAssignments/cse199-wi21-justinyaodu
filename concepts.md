@@ -86,6 +86,8 @@ Checking every possible candidate in order to find the answer. This often involv
 
 Breaking up a large problem into a series of smaller problems, often recursively.
 
+### dynamic-programming
+
 ### flood-fill
 
 Coloring or marking contiguous regions that satisfy a certain property.
@@ -93,6 +95,8 @@ Coloring or marking contiguous regions that satisfy a certain property.
 ### greedy
 
 Using a simple and intuitive algorithm to find the optimal solution.
+
+### recursion
 
 ### sorting
 
